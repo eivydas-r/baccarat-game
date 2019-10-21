@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="BaccaratProject">
+    <output-path>$PROJECT_DIR$/classes/artifacts/BaccaratProject</output-path>
+    <root id="root">
+      <element id="archive" name="BaccaratProject.jar">
+        <element id="module-output" name="BaccaratProject" />
+      </element>
+    </root>
+  </artifact>
+</component>

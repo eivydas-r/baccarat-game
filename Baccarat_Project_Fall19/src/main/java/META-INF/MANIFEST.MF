@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Content
+ s/Home/jre/lib/jfxswt.jar
+Main-Class: BaccaratGame
+
